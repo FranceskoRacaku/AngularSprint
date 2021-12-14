@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist\\AngularSprint",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
